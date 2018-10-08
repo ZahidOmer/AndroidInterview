@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_ans">
+        <item>The following are the exceptions that are supported by Android * InflateException : When an error conditions are occurred, this exception is thrown * Surface.OutOfResourceException: When a surface is not created or resized, this exception is thrown * SurfaceHolder.BadSurfaceTypeException: This exception is thrown from the lockCanvas() method, when invoked on a Surface whose is SURFACE_TYPE_PUSH_BUFFERS</item>
+        <item>The extension for an Android package file, which typically contains all of the files related to a single Android application. The file itself is a compressed collection of an AndroidManifest.xml file, application code (.dex files), resource files, and other files. A project is compiled into a single .apk file.</item>
+        <item>Google started the Android project in response to our own experiences launching mobile apps. We wanted to make sure that there would always be an open platform available for carriers, OEMs, and developers to use to make their innovative ideas a reality. We also wanted to make sure that there was no central point of failure, so that no single industry player could restrict or control the innovations of any other. The single most important goal of the Android Open-Source Project (AOSP) is to make sure that the open-source Android software is implemented as widely and compatibly as possible, to everyone’s benefit.</item>
+        <item>The Guardian app for Android delivers all the best content from guardian.co.uk to your phone or tablet. Read the latest news, sport, comment and reviews, watch video, listen to brodcasts and browse stunning picture galleries while on the move.</item>
+    </string-array>
+</resources>

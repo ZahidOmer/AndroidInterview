@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/redquestion"
+    android:gravity="center"
+    android:id="@+id/question_page_title"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvquestionpage_titlebar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="interview"
+        android:textSize="30sp"
+        android:textColor="#ffffff"/>
+
+</LinearLayout>

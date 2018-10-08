@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/first"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main">
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:text="@string/sq"
+        android:id="@+id/bsq"
+        android:layout_marginTop="94dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        android:background="@drawable/button_custom"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:text="@string/tq"
+        android:id="@+id/btq"
+        android:layout_below="@id/bsq"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp"
+        android:textColor="#fff"
+        android:background="@drawable/button_custom"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:text="@string/seeother"
+        android:id="@+id/bseeotherapp"
+        android:layout_below="@id/btq"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:textColor="#fff"
+        android:background="@drawable/button_custom"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:textSize="20sp"
+        android:text="@string/rateapp"
+        android:id="@+id/brateapp"
+        android:layout_below="@id/bseeotherapp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp"
+        android:textColor="#fff"
+        android:background="@drawable/button_custom"/>
+
+</RelativeLayout>

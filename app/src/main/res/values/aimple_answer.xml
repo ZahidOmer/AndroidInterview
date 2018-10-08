@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ans">
+        <item>Android is a stack of software for mobile devices which has Operating System, middleware and some key applications.</item>
+        <item>Android programs are compiled into .dex (Dalvik Executable) files, which are in turn zipped into a single .apk file on the device.</item>
+        <item>The APK file is compressed the AndroidManifest.xml file, application code (.dex files), resource files, and other files. A project is compiled into a single .apk file.</item>
+        <item>A single screen in an application, with supporting Java code.</item>
+        <item>A service doesn’t have a visual user interface, but rather runs in the background for an indefinite period of time.</item>
+    </string-array>
+</resources>

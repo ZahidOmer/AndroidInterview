@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>.
+    <string-array name="simple_ques">
+        <item>What is Android ?</item>
+        <item>What is .dex extension?</item>
+        <item>Describe the APK format.</item>
+        <item>What is an activity?</item>
+        <item>What is a service?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_que">
+        <item>Explain about the exceptions of Android?</item>
+        <item>What is .apk extension?</item>
+        <item>Why did we open the Android source code?</item>
+        <item>What is the Guardian app for Android?</item>
+
+    </string-array>
+</resources>
